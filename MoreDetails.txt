@@ -1,0 +1,67 @@
+Crystal Hospital Management system
+
+Crystal HMS is a computerized Hospital Management system which has several modules.
+
+Out Patient 
+	- Doctor Appointments
+	- Medical Services Appointments
+
+In Patient  
+	- Doctor Visits
+	- Medical Services Treatements
+	- Pharmacy Service (Medicine)
+
+Pharmacy System
+	- Inventory Control Etc
+
+Employee Management
+	- Under Construction
+
+Hospital Management
+	- Bed Management
+	- Room / Ward Management
+	- etc
+
+Scheduling
+	- Doctor Scheduling
+	- Medical Services
+
+You can see more details in the documentaion
+
+Crystal HMS Also has
+
+Reports
+Invoices
+Help
+
+Online E- Channeling (ASP Web Site)
+etc..
+
+Crystal HMS has a GUI which is user freindly. It Requires some 3rd Party components 
+	1. VB Skinner
+	2. Active Resize Pro
+	3. Crystal Reports 8.5
+
+
+If you want to run the program with out installing above components you have to remove the 
+
+1. Active Resize Pro control from all the forms
+2. VB Skinner from frmSideBar
+3. Crystal Report component from the forms which use this component
+
+	Note: With out these components the program won't function properly. 
+
+
+You can download the full program + Source Code + 3rd Party Components + Documentation + User Manaual free from
+
+	http://CrystalHMS.freespaces.com/
+
+
+
+Contact Us
+
+nicefunnyguy@hotmail.com
+sachith@msn.com			
+
+
+
